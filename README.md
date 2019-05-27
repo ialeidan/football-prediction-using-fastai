@@ -7,7 +7,7 @@
 البيانات المستخدمة من موسم 2010\2011 حتى هذا الموسم 2018\2019
 
 ## النتائج
-![alt text](https://github.com/ialeidan/football-prediction-using-fastai/blob/master/BTwQB85_d.jpg)
+![alt text](https://github.com/ialeidan/football-prediction-using-fastai/blob/master/nashrah.png)
 
 ## المراجع
 الخصائص المستخدمة للتوقع أخذت من بحث: </br>
