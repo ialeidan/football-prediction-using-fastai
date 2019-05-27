@@ -6,6 +6,9 @@
 البيانات جمعت عن طريق موقع: football-data.co.uk </br>
 البيانات المستخدمة من موسم 2010\2011 حتى هذا الموسم 2018\2019
 
+## النتائج
+https://imgur.com/BTwQB85
+
 ## المراجع
 الخصائص المستخدمة للتوقع أخذت من بحث: </br>
 Predicting the football match winner using LSTM
